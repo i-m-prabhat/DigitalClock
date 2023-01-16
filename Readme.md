@@ -4,7 +4,7 @@ digital clock using js
 
 ## URL
 
-http
+https://i-m-prabhat.github.io/DigitalClock/
 
 ## demo
 
